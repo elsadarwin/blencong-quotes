@@ -56,3 +56,68 @@ quotes:
     tags: 
       - jodoh
       - lamaran
+
+  - q_no: 8
+    quote: "Jangan memberi harapan kalau belum siap dinikahkan "
+    author: Al Khansa Shalihah
+    author_bio: Inspiring UkhKey (Ukhti Hockey)
+    tags: 
+      - nikah
+      - harapan
+
+  - q_no: 9
+    quote: "Yang penting memperbaiki diri dulu. Orang baik untuk orang yg baik juga"
+    author: Al Khansa Shalihah
+    author_bio: Inspiring UkhKey (Ukhti Hockey)
+    tags: 
+      - selfimprovement
+      - jodoh
+
+  - q_no: 10
+    quote: "Jodoh dan rizki udah ada yg atur. Ga akan ketuker."
+    author: Al Khansa Shalihah
+    author_bio: Inspiring UkhKey (Ukhti Hockey)
+    tags: 
+      - nikah
+      - jodoh
+
+  - q_no: 10
+    quote: "Kapan mikirin nasib bangsa kalo mikirinnya cinta2an mulu"
+    author: Al Khansa Shalihah
+    author_bio: Inspiring UkhKey (Ukhti Hockey)
+    tags: 
+      - cinta
+      - bangsa
+
+  - q_no: 11
+    quote: "Semua pasangan juga awalnya gak ada hubungan apa2 kok"
+    author: Hizbul Wathon
+    author_bio: Pemilik jidat dan masa depan cerah
+    tags: 
+      - cinta
+      - jodoh
+      - pasangan
+
+  - q_no: 12
+    quote: "Udh ga usah confirm lg, rasa ga bsa boong"
+    author: Jason Wardiman
+    author_bio: Kokoh MBA Cambridge
+    tags: 
+      - cinta
+      - rasa
+
+  - q_no: 13
+    quote: "Biasa bagimu boleh jadi luar biasa utk orang lain. Keep inspiring!"
+    author: Hizbul Wathon
+    author_bio: Pemilik jidat dan masa depan cerah
+    tags: 
+      - motivasi
+      - hidup
+
+  - q_no: 13
+    quote: "Perlu diteliti dan dikaji hubungan kemampuan menekuk lidah dgn kepribadian seseorang"
+    author: Hizbul Wathon
+    author_bio: Pemilik jidat dan masa depan cerah
+    tags: 
+      - lidah
+      - kepribadian
