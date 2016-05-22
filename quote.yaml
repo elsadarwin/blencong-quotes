@@ -3,7 +3,7 @@ quotes:
   - q_no: 1
     quote: "Kamar kamu berantakan? Mungkin mengikuti kondisi hati"
     author: Hizbul Wathon
-    author_bio: Pemilik jidat dan masa depan cerah
+    author_bio: Pemilik kening dan masa depan cerah
     tags: 
       - cinta
 
@@ -27,7 +27,7 @@ quotes:
   - q_no: 4
     quote: "Hi Ladies,  gak ada yg salah punya pasangan om2!"
     author: Hizbul Wathon
-    author_bio: Pemilik jidat dan masa depan cerah
+    author_bio: Pemilik kening dan masa depan cerah
     tags: 
       - ladies
       - pasangan
@@ -52,7 +52,7 @@ quotes:
   - q_no: 7
     quote: "Jangan kelamaan rencanainnya! Keburu dilamar orang lain, mewek deh."
     author: Hizbul Wathon
-    author_bio: Pemilik jidat dan masa depan cerah
+    author_bio: Pemilik kening dan masa depan cerah
     tags: 
       - jodoh
       - lamaran
@@ -60,7 +60,7 @@ quotes:
   - q_no: 8
     quote: "Jangan memberi harapan kalau belum siap dinikahkan "
     author: Al Khansa Shalihah
-    author_bio: Inspiring UkhKey (Ukhti Hockey)
+    author_bio: Ukhti Atlet Hockey Multitalenta
     tags: 
       - nikah
       - harapan
@@ -68,7 +68,7 @@ quotes:
   - q_no: 9
     quote: "Yang penting memperbaiki diri dulu. Orang baik untuk orang yg baik juga"
     author: Al Khansa Shalihah
-    author_bio: Inspiring UkhKey (Ukhti Hockey)
+    author_bio: Ukhti Atlet Hockey Multitalenta
     tags: 
       - selfimprovement
       - jodoh
@@ -76,7 +76,7 @@ quotes:
   - q_no: 10
     quote: "Jodoh dan rizki udah ada yg atur. Ga akan ketuker."
     author: Al Khansa Shalihah
-    author_bio: Inspiring UkhKey (Ukhti Hockey)
+    author_bio: Ukhti Atlet Hockey Multitalenta
     tags: 
       - nikah
       - jodoh
@@ -92,7 +92,7 @@ quotes:
   - q_no: 11
     quote: "Semua pasangan juga awalnya gak ada hubungan apa2 kok"
     author: Hizbul Wathon
-    author_bio: Pemilik jidat dan masa depan cerah
+    author_bio: Pemilik kening dan masa depan cerah
     tags: 
       - cinta
       - jodoh
@@ -109,7 +109,7 @@ quotes:
   - q_no: 13
     quote: "Biasa bagimu boleh jadi luar biasa utk orang lain. Keep inspiring!"
     author: Hizbul Wathon
-    author_bio: Pemilik jidat dan masa depan cerah
+    author_bio: Pemilik kening dan masa depan cerah
     tags: 
       - motivasi
       - hidup
@@ -117,7 +117,7 @@ quotes:
   - q_no: 13
     quote: "Perlu diteliti dan dikaji hubungan kemampuan menekuk lidah dgn kepribadian seseorang"
     author: Hizbul Wathon
-    author_bio: Pemilik jidat dan masa depan cerah
+    author_bio: Pemilik kening dan masa depan cerah
     tags: 
       - lidah
       - kepribadian
@@ -137,3 +137,49 @@ quotes:
     tags: 
       - hati
       - perut
+
+  - q_no: 16
+    quote: "Sebelum 30 siapa saja, setelah 30 siapa saja."
+    author: Sofna Banjarnahor
+    author_bio: Pakar cinta ulung
+    tags: 
+      - cinta
+      - jodoh
+
+  - q_no: 17
+    quote: "Kalau kamu nggak suka sama aku nggak papa.. yang penting mau jadi pacarku sampai aku bosan sama kamu."
+    author: Sofna Banjarnahor
+    author_bio: Pakar cinta ulung
+    tags: 
+      - cinta
+      - pacar
+
+  - q_no: 18
+    quote: "Justru salah satu cara menyalurkan cinta adalah tidur."
+    author: Putu Teguh Dharmawijaya
+    author_bio: Ikon Ambis dari lahir
+    tags: 
+      - cinta
+      - tidur
+
+  - q_no: 19
+    quote: "Wkwkw no drama no life sistah"
+    author: Natasha Primaditta
+    author_bio: Dokter Ay
+    tags: 
+      - drama
+      - life
+
+  - q_no: 20
+    quote: "Gak enak kali mbak kalo gak dianggap!!"
+    author: Hizbul Wathon
+    author_bio: Pemilik kening dan masa depan cerah
+    tags: 
+      - curcol
+
+  - q_no: 21
+    quote: "Aku tukang intip"
+    author: Hizbul Wathon
+    author_bio: Pemilik kening dan masa depan cerah
+    tags: 
+      - curcol
