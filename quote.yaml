@@ -10,7 +10,7 @@ quotes:
   - q_no: 2
     quote: "Witing tresno jalaran soko kulino..tidak ada dalam kamus saya. "
     author: Sofna Banjarnahor
-    author_bio: Pakar cinta ulung
+    author_bio: Pakar percintaan ulung
     tags: 
       - cinta
       - jawa
@@ -36,7 +36,7 @@ quotes:
   - q_no: 5
     quote: "Jatuh cinta harus direncanakan...supaya jangan jatuh bangun."
     author: Sofna Banjarnahor
-    author_bio: Pakar cinta ulung
+    author_bio: Pakar percintaan ulung
     tags: 
       - cinta
       - jatuh
@@ -141,7 +141,7 @@ quotes:
   - q_no: 16
     quote: "Sebelum 30 siapa saya, setelah 30 siapa saja."
     author: Sofna Banjarnahor
-    author_bio: Pakar cinta ulung
+    author_bio: Pakar percintaan ulung
     tags: 
       - cinta
       - jodoh
@@ -149,7 +149,7 @@ quotes:
   - q_no: 17
     quote: "Kalau kamu nggak suka sama aku nggak papa.. yang penting mau jadi pacarku sampai aku bosan sama kamu."
     author: Sofna Banjarnahor
-    author_bio: Pakar cinta ulung
+    author_bio: Pakar percintaan ulung
     tags: 
       - cinta
       - pacar
@@ -183,3 +183,41 @@ quotes:
     author_bio: Pemilik kening dan masa depan cerah
     tags: 
       - curcol
+
+  - q_no: 22
+    quote: "Disudahi kan bukan berarti memutuskan tali silaturahmi"
+    author: Ratih Nawangwulan
+    author_bio: Penunggu kepastian
+    tags: 
+      - silaturahmi
+
+  - q_no: 23
+    quote: "Keputusan di tangan kamu, takdir di tangan Tuhan"
+    author: Ratih Nawangwulan
+    author_bio: Penunggu kepastian
+    tags: 
+      - Tuhan
+      - keputusan
+
+  - q_no: 23
+    quote: "Kalo ada yg cedi aku ikut cedi. Merasa ga berdaya"
+    author: Ratih Nawangwulan
+    author_bio: Penunggu kepastian
+    tags: 
+      - cedi
+
+  - q_no: 24
+    quote: Dibiarin natural aja. Kalo emang ditakdirkan berdua pasti ada jalan, kalo engga ya mungkin dipertemukan di persimpangan jalan yg lain"
+    author: Ratih Nawangwulan
+    author_bio: Penunggu kepastian
+    tags: 
+      - natural
+      - jodoh
+
+  - q_no: 25
+    quote: "Menulis disertasi enaknya disertai istri."
+    author: Sofna Banjarnahor
+    author_bio: Pakar percintaan ulung
+    tags: 
+      - disertasi
+      - istri
