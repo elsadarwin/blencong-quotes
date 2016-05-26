@@ -253,7 +253,7 @@ quotes:
   - q_no: 30
     quote: "Masa habis PK hanya telegram yg tersisa? :')"
     author: Nurvita Yuliandani
-    author_bio: 
+    author_bio: Gitaris Jogja Pencari Makna Kehidupan
     tags: 
       - PK
 
@@ -394,5 +394,12 @@ quotes:
     quote: "Kalau mau melihat masa depan bangsa ini, berdirilah di depan kaca setiap pagi. Maka, disitulah kamu akan melihat masa depan bangsa ini yang sesungguhnya"
     author: Yulia
     author_bio: Calon RI 1 2030 (Teplok)
+    tags: 
+      - cinta
+      
+  - q_no: 51
+    quote: "Mas anfal idolaku, mas reza junjunganku, insentif harapanku"
+    author: Anonymous
+    author_bio: Senthir
     tags: 
       - cinta
